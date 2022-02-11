@@ -16,28 +16,6 @@ A syntax error is an error in the way that the source code for the program is wr
 unmatched brackets or quotes, errors in case sensitivity, undeclared variables, badly named variables, the list
 can actually be quite long.
 
-Today, you will be opening 5 programs that are not functioning because they have syntax errors.  
-Correct the errors to make sure that they are working and then commit the files to the autograder once they are.
-
-### 5 Tasks
-
-##### Task 1
-Open up the file "assignment1.py".  Fix any of the problems that are preventing the program from running
-(2 points) 
-
-##### Task 2
-Open up the file "assignment2.py".  Fix any of the problems that are preventing the program from running
-(2 points) 
-
-##### Task 3
-Open up the file "assignment3.py".  Fix any of the problems that are preventing the program from running
-(2 points) 
-
-##### Task 4
-Open up the file "assignment4.py".  Fix any of the problems that are preventing the program from running
-(2 points) 
-
-##### Task 5
-Open up the file "assignment5.py".  Fix any of the problems that are preventing the program from running
-(2 points) 
+Today, you will be opening 12 programs that are not functioning because they have syntax errors.  
+Correct the errors to make sure that they are working and then commit your files
 
