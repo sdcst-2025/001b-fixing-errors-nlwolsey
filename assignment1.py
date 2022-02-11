@@ -2,5 +2,10 @@
 
 # SD Computing Studies Assignment
 
-print("This program was not working")
-  print("but now it is working!")
+print("Awesome movies:")
+  print("The Matrix")
+  print("The Natural")
+  print("The Rookie")
+  print("The Star Wars")
+  print("The Journey Home")
+  print("The Shaggy DA")
